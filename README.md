@@ -1,5 +1,4 @@
-# Project Title
-Romi.Finance
+# Romi.Finance
 
 ## Description
 This project is a clone of the [Zomi.Finance](https://zomi.finance/) website, as per the internship task from PixelBridges.
